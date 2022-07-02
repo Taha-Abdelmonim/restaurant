@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "name": "Salah I. Bedeiwi",
+      "email": "11@11.com",
+      "pass": "1111111111",
+      "id": 1
+    },
+    {
+      "name": "Salah Bedeiwi",
+      "email": "22@22.com",
+      "pass": "2222222222",
+      "id": 2
+    },
+    {
+      "name": "Salah Bedeiwi",
+      "email": "333@333.com",
+      "pass": "3333333333",
+      "id": 3
+    },
+    {
+      "name": "Ahmed Mohamed Ali",
+      "email": "444@444.com",
+      "pass": "4444444444",
+      "id": 4
+    },
+    {
+      "name": "Mohamed Ahmed Khaled",
+      "email": "555@555.com",
+      "pass": "555555555555",
+      "id": 5
+    },
+    {
+      "name": "Khaled Mahrous",
+      "email": "666@666.com",
+      "pass": "6666666666666",
+      "id": 6
+    },
+    {
+      "name": "taha abdelmoneim",
+      "email": "taha@gmail.com",
+      "pass": "0000000000",
+      "id": 7
+    },
+    {
+      "name": "taha abdelmoneim 2",
+      "email": "taha2@gmail.com",
+      "pass": "0000000000",
+      "id": 8
+    },
+    {
+      "name": "taha abdelmoneim",
+      "email": "taha3@gmail.com",
+      "pass": "000000000000000000000",
+      "id": 9
+    }
+  ],
+  "locations": [
+    {
+      "name": "Burger King",
+      "phone": "123.456.789",
+      "address": "Cairo, Egypt",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Pizza Hut Restaurants",
+      "phone": "123.456.789",
+      "address": "Alex, Egypt",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Hooks Fish and Chicken",
+      "phone": "123.456.789",
+      "address": "Minneapolis, MN",
+      "userId": 5,
+      "id": 4
+    },
+    {
+      "name": "name restaunt is foot",
+      "phone": "00000000000000000",
+      "address": "Egypt Giza",
+      "userId": 7,
+      "id": 5
+    },
+    {
+      "name": "we jow can rexonion",
+      "phone": "111111111111111111111",
+      "address": "we bbbbbbbbbbbbbbbbb",
+      "userId": 7,
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "name": "Burgers",
+      "userId": 1,
+      "locationId": 2,
+      "id": 6
+    },
+    {
+      "name": "Drinks",
+      "userId": 1,
+      "locationId": 2,
+      "id": 7
+    },
+    {
+      "name": "Chicken Pizza",
+      "userId": 1,
+      "locationId": 3,
+      "id": 8
+    },
+    {
+      "name": "Seafood Pizza",
+      "userId": 1,
+      "locationId": 3,
+      "id": 9
+    },
+    {
+      "name": "Desserts",
+      "userId": 1,
+      "locationId": 3,
+      "id": 10
+    },
+    {
+      "name": "Breakfast",
+      "userId": 5,
+      "locationId": 4,
+      "id": 15
+    },
+    {
+      "name": "Taha",
+      "userId": 1,
+      "locationId": 2,
+      "id": 16
+    },
+    {
+      "name": "Taha 2",
+      "userId": 1,
+      "locationId": 2,
+      "id": 17
+    },
+    {
+      "name": "flafel",
+      "userId": 1,
+      "locationId": 3,
+      "id": 18
+    },
+    {
+      "name": "foole",
+      "userId": 1,
+      "locationId": 3,
+      "id": 19
+    }
+  ],
+  "items": [
+    {
+      "name": "Mix Chicken Pizza",
+      "price": "155.99",
+      "description": "Best Pizza in Town. Server with Veges",
+      "qty": 100000,
+      "userId": 1,
+      "locId": 3,
+      "catId": 8,
+      "id": 1
+    },
+    {
+      "name": "Catfish Fillet and Shrimp",
+      "price": "15.99",
+      "description": "Best Catfish in town",
+      "qty": 10000,
+      "userId": 1,
+      "locId": 1,
+      "catId": 1,
+      "id": 2
+    },
+    {
+      "name": "Shrimp Pizza",
+      "price": "15.99",
+      "description": "Best Pizza in town",
+      "qty": 100000,
+      "userId": 1,
+      "locId": 3,
+      "catId": 9,
+      "id": 3
+    },
+    {
+      "name": "One Price",
+      "price": "90.00",
+      "description": "Eat as much as you can",
+      "qty": 10000,
+      "userId": 1,
+      "locId": 1,
+      "catId": 14,
+      "id": 4
+    },
+    {
+      "name": "Egg Rolls",
+      "price": "15.99",
+      "description": "Best in town",
+      "qty": 100000,
+      "userId": 5,
+      "locId": 4,
+      "catId": 15,
+      "id": 5
+    }
+  ]
+}
